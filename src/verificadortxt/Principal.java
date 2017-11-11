@@ -14,7 +14,7 @@ public class Principal extends javax.swing.JFrame
         // Define full o tamanho da tela
         setExtendedState( Principal.MAXIMIZED_BOTH );
 
-        // Inicia o controlador da tela, inicia os botoes e adiciona os eventos t
+        // Inicia o controlador da tela, inicia os botoes e adiciona os eventos
         this.IniciarController();
     }
     
